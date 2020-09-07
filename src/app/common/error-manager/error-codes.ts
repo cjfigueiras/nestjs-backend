@@ -1,0 +1,15 @@
+export const ErrorCode = {
+    DuplicateEntity: 'DUPLICATE_ENTITY',
+    GeneralError: 'GENERAL_ERROR',
+    InvalidId: 'INVALID_ID',
+    InvalidName: 'INVALID_NAME',
+    InvalidPayload: 'INVALID_PARAMETERS',
+    InvalidToken: 'INVALID_TOKEN',
+    LicenceRevoked: 'LICENCE_REVOKED',
+    MissingCosme: 'MISSING_COSME',
+    MissingId: 'MISSING_ID',
+    MissingPermission: 'MISSING_PERMISSION',
+    Unauthorized: 'UNAUTHORIZED',
+    UnknownEntity: 'UNKNOWN_ENTITY',
+    UnknownError: 'UNKNOWN_ERROR',
+};

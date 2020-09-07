@@ -1,0 +1,26 @@
+[
+    {
+        "id": "d-ede82f973bb94aaabc54e36b232e58a4",
+        "name": "Register"
+    },
+    {
+        "id": "d-a33f55807413452491bcc520195e08dc",
+        "name": "PasswordModified"
+    },
+    {
+        "id": "d-8c2124d13a8b459daf9941a4227ce70a",
+        "name": "ResetPassword"
+    },
+    {
+        "id": "d-f2acae1359704e00b783f02c5ea6ea3a",
+        "name": "ContactSupport"
+    },
+    {
+        "id": "d-6db62b5520774714ad58ffc3ad9913ff",
+        "name": "Invitation"
+    },
+    {
+        "id": "d-6db7a24ca318431cb3d8ce9046c7ebb8",
+        "name": "ScoreNotification"
+    }
+]
